@@ -3,7 +3,7 @@
 
 All project parts and additional photos are on [quiescentcurrent.com](https://quiescentcurrent.com/blog/post.php?p_id=63)<br><br>
 
-![Photo of the egg mill](https://github.com/petl/EggMill/tree/master/photos/IMG_20200502_120836_s.jpg)
+![Photo of the egg mill](https://raw.githubusercontent.com/petl/EggMill/master/photos/IMG_20200502_120836_s.jpg)
 
 
 If you\'re interested in this project, take a look at the [blog](https://quiescentcurrent.com/blog/post.php?p_id=63) or just write a message or leave a comment.            
